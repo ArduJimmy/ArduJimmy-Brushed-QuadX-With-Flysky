@@ -41,6 +41,5 @@ https://electronics.stackexchange.com/questions/682177/is-it-okay-using-irl520n-
 
 <h2>Schematic Diagram</h2>
 <p>
-  <style>img{max-width:100%;min-width:0;width:100%;height:auto;display:block;"}</style>
   <img src="https://i.stack.imgur.com/xzKUP.png"/>
 </p>
