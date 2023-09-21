@@ -44,3 +44,10 @@ https://electronics.stackexchange.com/questions/682177/is-it-okay-using-irl520n-
 <p>
   <img src="https://i.stack.imgur.com/xzKUP.png"/>
 </p>
+
+<h2>Source:</h2>
+<ul>
+  <li>http://www.multiwii.com/wiki/index.php?title=ESC_Calibration</li>
+  <li>https://www.youtube.com/@ArduJimmy</li>
+  <li>https://electronics.stackexchange.com/questions/682177/is-it-okay-using-irl520n-without-resistor-and-diode-for-diy-brushed-esc-dc-motor (by ArduJimmy)</li>
+</ul>
