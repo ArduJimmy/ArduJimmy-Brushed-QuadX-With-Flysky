@@ -29,6 +29,7 @@ https://electronics.stackexchange.com/questions/682177/is-it-okay-using-irl520n-
   <li>Cables & Jumpers: AWG28 or AWG30</li>
   <li>Connectors</li>
   <li>Double tape</li>
+  <li>Propellers: 60mm/1mm or 75mm/1mm</li>
 </ul>
 <p>Note: 48 grams (All components and parts above)</p>
 
