@@ -13,3 +13,34 @@ https://electronics.stackexchange.com/questions/682177/is-it-okay-using-irl520n-
   </ul>
   Please Subscribe!
 </p>
+<h2>Components & Parts</h2>
+<ul>
+  <li>LiPO Battery 1s 40C 3.7v, weight:6 grams</li>
+  <li>IRL520n (Logical Level Mosfet) / N-Fet</li>
+  <li>Capacitor: 100uf 25v</li>
+  <li>4Ch FS2A Flysky Receiver</li>
+  <li>Flysky FS-i6 TX</i>
+  <li>MPU6050 / GY-521</li>
+  <li>820 Coreless DC Motors (8520 is better)</li>
+  <li>AMS1117 3.3v</li>
+  <li>Step-up Converter, DC to DC 3.7v to 5v</li>
+  <li>Mini QuadX Frame</li>
+  <li>Arduino Promini 5v 328p</li>
+  <li>Cables & Jumpers: AWG28 or AWG30</li>
+  <li>Connectors</li>
+  <li>Double tape</li>
+</ul>
+<p>Note: 48 grams (All components and parts above)</p>
+
+<h2>Firmware & Softwares Needed</h2>
+<ul>
+  <li>Firmware: Multiwii 2.3</li>
+  <li>MultiwiiConf 32bit Under Windows</li>
+  <li>Windows 7 32bit with Arduino IDE version: 1.8.19</li>
+</ul>
+
+<h2>Schematic Diagram</h2>
+<p>
+  <style>img{max-width:100%;min-width:0;width:100%;height:auto;display:block;"}</style>
+  <img src="https://i.stack.imgur.com/xzKUP.png"/>
+</p>
