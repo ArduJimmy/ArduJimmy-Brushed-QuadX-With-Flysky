@@ -11,7 +11,7 @@ https://electronics.stackexchange.com/questions/682177/is-it-okay-using-irl520n-
     <li>Brushed ESC Calibration</li>
     <li>Do and Don'ts</li>
   </ul>
-  Please Subscribe!
+  <h3>Please Subscribe!</h3>
 </p>
 <h2>Components & Parts</h2>
 <ul>
