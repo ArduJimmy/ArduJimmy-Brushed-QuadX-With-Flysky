@@ -16,7 +16,7 @@ https://electronics.stackexchange.com/questions/682177/is-it-okay-using-irl520n-
 <h2>Components & Parts</h2>
 <ul>
   <li>LiPO Battery 1s 40C 3.7v, weight:6 grams</li>
-  <li>IRL520n (Logical Level Mosfet) / N-Fet</li>
+  <li>IRL520n (Logical Level Mosfet) / N-Fet (recommend: si2302)</li>
   <li>Capacitor: 100uf 25v</li>
   <li>4Ch FS2A Flysky Receiver</li>
   <li>Flysky FS-i6 TX</i>
@@ -30,6 +30,7 @@ https://electronics.stackexchange.com/questions/682177/is-it-okay-using-irl520n-
   <li>Connectors</li>
   <li>Double tape</li>
   <li>Propellers: 60mm/1mm or 75mm/1mm</li>
+  <li>Resistor: 100K dan 100 Ohm + in5819 (or equivalent)</li>
 </ul>
 <p>Note: 48 grams (All components and parts above)</p>
 
