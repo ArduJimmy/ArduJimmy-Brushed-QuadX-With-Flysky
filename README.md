@@ -47,6 +47,10 @@ https://electronics.stackexchange.com/questions/682177/is-it-okay-using-irl520n-
 <p>
   <img src="https://github.com/ArduJimmy/ArduJimmy-Brushed-QuadX/blob/main/P_20230920_200328_vHDR_Auto.jpg"/>
 </p>
+
+<p>
+  <img src="https://github.com/ArduJimmy/ArduJimmy-Brushed-QuadX/blob/main/micro-brushed-ESC.png" alt="working brushed ESC"/>
+</p>
 <h2>Source:</h2>
 <ul>
   <li>http://www.multiwii.com/wiki/index.php?title=ESC_Calibration</li>
