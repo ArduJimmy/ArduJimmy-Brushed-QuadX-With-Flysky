@@ -30,7 +30,7 @@ https://electronics.stackexchange.com/questions/682177/is-it-okay-using-irl520n-
   <li>Connectors</li>
   <li>Double tape</li>
   <li>Propellers: 60mm/1mm or 75mm/1mm</li>
-  <li>Resistor: 100K dan 100 Ohm + in5819 (or equivalent)</li>
+  <li>Resistor: 10K dan 100 Ohm + in5819 (or equivalent)</li>
 </ul>
 <p>Note: 48 grams (All components and parts above)</p>
 
