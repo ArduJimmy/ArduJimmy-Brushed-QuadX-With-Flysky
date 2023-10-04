@@ -50,7 +50,7 @@ https://electronics.stackexchange.com/questions/682177/is-it-okay-using-irl520n-
 </p>
 
 <p>
-  <img src="https://github.com/ArduJimmy/ArduJimmy-Brushed-QuadX/blob/main/micro-brushed-ESC.png" alt="working brushed ESC"/>
+  <img src="https://github.com/ArduJimmy/ArduJimmy-Brushed-QuadX/blob/main/diy-brushed-esc.png" alt="working brushed ESC"/>
 </p>
 <h2>Source:</h2>
 <ul>
