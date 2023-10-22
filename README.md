@@ -40,9 +40,9 @@ https://electronics.stackexchange.com/questions/682177/is-it-okay-using-irl520n-
   <li>MultiwiiConf 32bit Under Windows</li>
   <li>Windows 7 32bit with Arduino IDE version: 1.8.19</li>
 </ul>
-
-<iframe width="320" height="560" src="https://www.youtube.com/embed/Kc6fk2Emhc0" title="Arduino DIY - Test #drone #arduino | 820 Brushed ESC &amp; Motor" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-
+<p>
+Demo: https://www.youtube.com/embed/Kc6fk2Emhc0
+</p>
 
 <h2>Schematic Diagram</h2>
 <p>
