@@ -55,9 +55,9 @@ Demo: https://www.youtube.com/embed/Kc6fk2Emhc0
 <p>
   <img src="https://github.com/ArduJimmy/ArduJimmy-Brushed-QuadX/blob/main/diy-brushed-esc.png" alt="working brushed ESC"/>
 </p>
-<p>
-  Motors are directly connected to Vin of Step-up booster converter. Wire them up in parallel, not in series.
-  <img src="https://github.com/ArduJimmy/ArduJimmy-Brushed-QuadX-With-Flysky/blob/main/motors-wiring.png"/>
+
+  <p><b>Motors are directly connected to Vin of Step-up booster converter. Wire them up in parallel, not in series.</b></p>
+  <p><img src="https://github.com/ArduJimmy/ArduJimmy-Brushed-QuadX-With-Flysky/blob/main/motors-wiring.png" alt="motors wiring"/>
 </p>
 <h2>Source:</h2>
 <ul>
