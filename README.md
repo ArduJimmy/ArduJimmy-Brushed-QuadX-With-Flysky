@@ -44,6 +44,8 @@ https://electronics.stackexchange.com/questions/682177/is-it-okay-using-irl520n-
 Demo: https://www.youtube.com/watch?v=p6tdkUCIFxc (flying test III)
 </p>
 
+<p><img src="https://github.com/ArduJimmy/ArduJimmy-Brushed-QuadX-With-Flysky/blob/main/si2302%20mosfet.jpeg"/></p>
+
 <h2>Schematic Diagram</h2>
 <p>
   <img src="https://i.stack.imgur.com/xzKUP.png"/>
@@ -53,7 +55,7 @@ Demo: https://www.youtube.com/watch?v=p6tdkUCIFxc (flying test III)
 </p>
 
 <p>
-  <img src="https://github.com/ArduJimmy/ArduJimmy-Brushed-QuadX/blob/main/diy-brushed-esc.png" alt="working brushed ESC"/>
+  <img src="https://github.com/ArduJimmy/ArduJimmy-Brushed-QuadX-With-Flysky/blob/main/wiring-brushed-drone-by-ardujimmy.png" alt="working brushed ESC"/>
 </p>
   <p><img src="https://github.com/ArduJimmy/ArduJimmy-Brushed-QuadX-With-Flysky/blob/main/motors-wiring.png" alt="motors wiring"/></p>
 <h2>Source:</h2>
