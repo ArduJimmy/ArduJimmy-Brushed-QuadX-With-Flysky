@@ -11,9 +11,12 @@ https://electronics.stackexchange.com/questions/682177/is-it-okay-using-irl520n-
     <li>Brushed ESC Calibration</li>
     <li>Do and Don'ts</li>
   </ul>
-  <h3>Please Subscribe!</h3>
 </p>
 
+<h2>Please Subscribe and Share my Channel</h2>
+<p>
+  <a href="https://www.youtube.com/@ardujimmy target="_blank" title="Ardujimmy Channel on YOUTUBE">Ardujimmy Youtube Channel</a>
+</p>
 <h2>Connection to Bluetooth</h2>
 <p>To connect to bluetooth HC-05/HC-06 you can use this following android app:
 <ul>
