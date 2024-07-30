@@ -1,4 +1,4 @@
-# ArduJimmy-Brushed-QuadX
+# UPDATED JULY 30, 2024: ArduJimmy-Brushed-QuadX (with Flysky and Bluetooth Controller)
 This rep is my first Arduino QuadX Using Mosfet IRL520n As Speed Controller (ESC) for Brushed 820 DC Motor
 Discussion:
 https://electronics.stackexchange.com/questions/682177/is-it-okay-using-irl520n-without-resistor-and-diode-for-diy-brushed-esc-dc-motor (by ArduJimmy)
@@ -13,6 +13,26 @@ https://electronics.stackexchange.com/questions/682177/is-it-okay-using-irl520n-
   </ul>
   <h3>Please Subscribe!</h3>
 </p>
+
+<h2>Connection to Bluetooth</h2>
+<p>To connect to bluetooth HC-05/HC-06 you can use this following android app:
+<ul>
+  <li>App-1: <a href="https://github.com/ArduJimmy/ArduJimmy-Brushed-QuadX-With-Flysky/blob/main/com-pinggusoft-btcon-22.zip">BTCon4Drone (Trial)</a></li>
+  <li>App-2: <a href="https://github.com/ArduJimmy/ArduJimmy-Brushed-QuadX-With-Flysky/blob/main/multiwii-configurator.zip">Multiwii Configurator (Free)</a></li>
+</ul>
+</p>
+
+<p>Dont forget to setup your HC module to 115200 baudrate</p>
+
+<h2>Connection to FLysky Receiver</h2>
+<p>Here's the 4 channel wiring for flysky receiver. In this case, I use Fs2a 4Ch AFHDS 2a Pwm Mini Receiver:</p>
+<ul>
+  <li>Channel 1 flysky module to pin D4 of Arduino Pro mini 328p 5v</li>
+  <li>Channel 2 flysky module to pin D5 of Arduino Pro mini 328p 5v</li>
+  <li>Channel 3 flysky module to pin D2 of Arduino Pro mini 328p 5v</li>
+  <li>Channel 4 flysky module to pin D6 of Arduino Pro mini 328p 5v</li>
+</ul>
+
 <h2>Components & Parts</h2>
 <ul>
   <li>LiPO Battery 1s 40C 3.7v, weight:6 grams</li>
