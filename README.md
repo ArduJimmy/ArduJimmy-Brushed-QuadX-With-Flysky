@@ -19,7 +19,7 @@ https://electronics.stackexchange.com/questions/682177/is-it-okay-using-irl520n-
 </p>
 <h2>Connection to Bluetooth</h2>
 <p>In this case, we use Multiwii 2.4 version firmware to connect our diy arduino quadcopter to smartphone. You can use HC-05 or HC-06 module.</p>
-<p>To connect to bluetooth HC-05/HC-06 you can use this android app: <a href="https://github.com/ArduJimmy/ArduJimmy-Brushed-QuadX-With-Flysky/blob/main/Android%20DRMS%20FLY.zip">DRMS(fly)</a></p>
+<p>To connect bluetooth HC-05/HC-06 with your smartphone, firstly, you must instal and use this android app: <a href="https://github.com/ArduJimmy/ArduJimmy-Brushed-QuadX-With-Flysky/blob/main/Android%20DRMS%20FLY.zip">DRMS(fly)</a></p>
 
 <h2>BLUETOOTH MODULE WIRING</h2>
 <ul>
