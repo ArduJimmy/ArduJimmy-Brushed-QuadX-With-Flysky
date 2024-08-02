@@ -18,12 +18,16 @@ https://electronics.stackexchange.com/questions/682177/is-it-okay-using-irl520n-
   <a href="https://www.youtube.com/@ardujimmy target="_blank" title="Ardujimmy Channel on YOUTUBE">Ardujimmy Youtube Channel</a>
 </p>
 <h2>Connection to Bluetooth</h2>
-<p>To connect to bluetooth HC-05/HC-06 you can use this following android app:
+<p>In this case, we use Multiwii 2.4 version firmware to connect our diy arduino quadcopter to smartphone. You can use HC-05 or HC-06 module.</p>
+<p>To connect to bluetooth HC-05/HC-06 you can use this android app: <a href="https://github.com/ArduJimmy/ArduJimmy-Brushed-QuadX-With-Flysky/blob/main/Android%20DRMS%20FLY.zip">DRMS(fly)</a></p>
+
+<h2>BLUETOOTH MODULE WIRING</h2>
 <ul>
-  <li>App-1: <a href="https://github.com/ArduJimmy/ArduJimmy-Brushed-QuadX-With-Flysky/blob/main/com-pinggusoft-btcon-22.zip">BTCon4Drone (Trial)</a></li>
-  <li>App-2: <a href="https://github.com/ArduJimmy/ArduJimmy-Brushed-QuadX-With-Flysky/blob/main/multiwii-configurator.zip">Multiwii Configurator (Free)</a></li>
+  <li>Pin TX arduino board to RX module HC-5/06</li>
+  <li>Pin RX arduino board to TX module HC-5/06</li>
+  <li>Pin GND arduino board to GND module HC-5/06</li>
+  <li>Pin VCC 5v arduino board (or VCC 5v of Step-up Converter Output PIN) to VCC module HC-5/06</li>
 </ul>
-</p>
 
 <p>Dont forget to setup your HC module to 115200 baudrate</p>
 
