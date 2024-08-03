@@ -75,10 +75,10 @@ Demo: https://www.youtube.com/watch?v=p6tdkUCIFxc (flying test III)
 
 <h2>Schematic Diagram</h2>
 <p>
-  <img src="https://i.stack.imgur.com/xzKUP.png"/>
+  <img src="https://github.com/ArduJimmy/ArduJimmy-Brushed-QuadX-With-Flysky/blob/main/diy-brushed-esc.png"/>
 </p>
 <p>
-  <img src="https://github.com/ArduJimmy/ArduJimmy-Brushed-QuadX/blob/main/P_20230920_200328_vHDR_Auto.jpg"/>
+  <img src="https://github.com/ArduJimmy/ArduJimmy-Brushed-QuadX-With-Flysky/blob/main/1.png"/>
 </p>
 
 <p>
