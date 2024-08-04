@@ -28,7 +28,7 @@ https://electronics.stackexchange.com/questions/682177/is-it-okay-using-irl520n-
   <li>Pin GND arduino board to GND module HC-5/06</li>
   <li>Pin VCC 5v arduino board (or VCC 5v of Step-up Converter Output PIN) to VCC module HC-5/06</li>
 </ul>
-
+<p>How To Do: https://www.youtube.com/watch?v=862kxcojHQ8 (Bluetooth Quadcopter)</p>
 <p>Dont forget to setup your HC module to 115200 baudrate</p>
 
 <h2>Connection to FLysky Receiver</h2>
@@ -40,7 +40,7 @@ https://electronics.stackexchange.com/questions/682177/is-it-okay-using-irl520n-
   <li>Channel 4 flysky module to pin D6 of Arduino Pro mini 328p 5v</li>
 </ul>
 
-<p>How To Do: https://www.youtube.com/watch?v=862kxcojHQ8 (Bluetooth Quadcopter)</p>
+
 
 <h2>Components & Parts</h2>
 <ul>
