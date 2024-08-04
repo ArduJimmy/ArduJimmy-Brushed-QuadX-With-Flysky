@@ -40,6 +40,8 @@ https://electronics.stackexchange.com/questions/682177/is-it-okay-using-irl520n-
   <li>Channel 4 flysky module to pin D6 of Arduino Pro mini 328p 5v</li>
 </ul>
 
+<p>How To Do: https://www.youtube.com/watch?v=862kxcojHQ8 (Bluetooth Quadcopter)</p>
+
 <h2>Components & Parts</h2>
 <ul>
   <li>LiPO Battery 1s 40C 3.7v, weight:6 grams</li>
