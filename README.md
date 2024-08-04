@@ -93,3 +93,6 @@ Demo: https://www.youtube.com/watch?v=p6tdkUCIFxc (flying test III)
   <li>https://www.youtube.com/@ArduJimmy</li>
   <li>https://electronics.stackexchange.com/questions/682177/is-it-okay-using-irl520n-without-resistor-and-diode-for-diy-brushed-esc-dc-motor (by ArduJimmy)</li>
 </ul>
+
+<h2>NEW !!!</h2>
+<p>Still in progress .... <a href="https://github.com/ArduJimmy/Multiwii-2.3-with-BMP280">Multiwii 2.3 with BMP280</a> (not tested yet)</p>
