@@ -1,4 +1,4 @@
-# UPDATED JULY 30, 2024: ArduJimmy-Brushed-QuadX (with Flysky and Bluetooth Controller)
+# UPDATED AUGUST 14, 2024: ArduJimmy-Brushed-QuadX (with Flysky and Bluetooth Controller)
 This rep is my first Arduino QuadX Using Mosfet IRL520n As Speed Controller (ESC) for Brushed 820 DC Motor
 Discussion:
 https://electronics.stackexchange.com/questions/682177/is-it-okay-using-irl520n-without-resistor-and-diode-for-diy-brushed-esc-dc-motor (by ArduJimmy)
@@ -94,5 +94,5 @@ Demo: https://www.youtube.com/watch?v=p6tdkUCIFxc (flying test III)
   <li>https://electronics.stackexchange.com/questions/682177/is-it-okay-using-irl520n-without-resistor-and-diode-for-diy-brushed-esc-dc-motor (by ArduJimmy)</li>
 </ul>
 
-<h2>NEW !!!</h2>
-<p>Still in progress .... <a href="https://github.com/ArduJimmy/Multiwii-2.3-with-BMP280">Multiwii 2.3 with BMP280</a> (not tested yet)</p>
+<h2>LADYBIRD of MULTIWII 2.3 with BMP280</h2>
+<p>See all modified codes in: <a href="https://github.com/ArduJimmy/Multiwii-2.3-with-BMP280">Multiwii 2.3 with BMP280</a> (Done Successfully TESTED!)</p>
