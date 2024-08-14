@@ -96,3 +96,4 @@ Demo: https://www.youtube.com/watch?v=p6tdkUCIFxc (flying test III)
 
 <h2>LADYBIRD of MULTIWII 2.3 with BMP280</h2>
 <p>See all modified codes in: <a href="https://github.com/ArduJimmy/Multiwii-2.3-with-BMP280">Multiwii 2.3 with BMP280</a> (Done Successfully TESTED!)</p>
+<img src="https://github.com/ArduJimmy/ArduJimmy-Brushed-QuadX-With-Flysky/blob/main/Multiwii%202.3%20with%20BMP280.png"/>
